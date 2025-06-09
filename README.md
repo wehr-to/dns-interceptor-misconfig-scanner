@@ -1,0 +1,1 @@
+# dns-interceptor-misconfig-scanner
